@@ -24,4 +24,5 @@ I'm a junior game and web developer with a passion for creating innovative and i
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-GameDev&theme=tokyonight)
+<br />
 Sadly those stats are wrong but I just thought they'd look cool on my page :D
