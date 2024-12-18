@@ -4,8 +4,6 @@
 
 I'm a junior game and web developer with a passion for creating innovative and interactive digital experiences. I'm mainly focusing on the backend side of programming while I also have an interest in 3D Art and Asset Modeling.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-GameDev&theme=tokyonight)
-
 ---
 
 ### 🧰 Tech Stack
@@ -23,3 +21,7 @@ I'm a junior game and web developer with a passion for creating innovative and i
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="discordjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
 <br />
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-GameDev&theme=tokyonight)
+Sadly those stats are wrong but I just thought they'd look cool on my page :D
