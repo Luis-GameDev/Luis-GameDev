@@ -4,6 +4,8 @@
 
 I'm a junior game and web developer with a passion for creating innovative and interactive digital experiences. I'm mainly focusing on the backend side of programming while I also have an interest in 3D Art and Asset Modeling.
 
+I'm not developing the code, the code is developing me.
+
 ---
 
 ### 🧰 Tech Stack
